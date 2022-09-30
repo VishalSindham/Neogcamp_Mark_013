@@ -1,4 +1,4 @@
-var dateinput = document.getElementById("date");
+var dateinput = document.getElementById("date1");
 var submitButton = document.getElementById("submit");
 var output = document.getElementById("output");
 
